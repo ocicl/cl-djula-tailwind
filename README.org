@@ -1,0 +1,10 @@
+* cl-djula-tailwind
+
+Tailwind classes for Djula templates
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rajasegar/cl-djula-tailwind.git   |
+| commit  | {"messa  |
+| systems | cl-djula-tailwind |
+|---------+-------------------------------------------|
+
