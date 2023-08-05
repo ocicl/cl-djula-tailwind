@@ -4,7 +4,7 @@ Tailwind classes for Djula templates
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/rajasegar/cl-djula-tailwind.git   |
-| commit  | {"messa  |
+| commit  | 26cf986  |
 | systems | cl-djula-tailwind |
 |---------+-------------------------------------------|
 
