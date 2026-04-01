@@ -8,3 +8,4 @@ Tailwind classes for Djula templates
 | systems | cl-djula-tailwind |
 |---------+-------------------------------------------|
 
+ 
